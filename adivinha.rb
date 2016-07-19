@@ -1,5 +1,5 @@
 def da_boas_vindas
-     puts
+    puts
     puts "        P  /_\  P                              "
     puts "       /_\_|_|_/_\                             "
     puts "   n_n | ||. .|| | n_n         Bem vindo ao    "
